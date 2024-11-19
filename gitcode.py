@@ -7,3 +7,4 @@ for i in range(3):
     print(list[i])
 
 print(list[0:3])
+
